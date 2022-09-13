@@ -1,0 +1,1 @@
+This folder was created to temporarily store Borg altered SWMM input data. Data in this folder is removed often during the optimization process to minimize memory required.
