@@ -7,6 +7,8 @@ The Optimal-Equitable-LID-Mgt repository contains python code that was developed
 The other folders will be necessary to execute the python code as they temporarily store input and result data files that appear in the code.
 
 The folders titled "SWMM_Model" and "Subbasin_Attributes" contain example SWMM model and input data respectively for the Upper Meadow Creek Watershed located in Charlottesville and Albemarle County Virginia. These files within these two folders will need to be updated to reflect different study areas.
+
+Lines 20-50 in the .py files are scenario specific parameters including the number decision variables in the model and the cost constraints which are specific to different study areas. 
  
 
 
