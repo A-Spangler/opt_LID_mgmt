@@ -4,9 +4,9 @@ The Optimal-Equitable-LID-Mgt repository contains python code that was developed
  # Using the Model
  The code for three different formulations can be found in the folder titled "LID_Optimization_Code". The .py files contain the code for the coupled SWMM(Stormwater management mode)-Borg model.The .sh files are batch files used to execute the .py files.
 
-The other folders will be necessary to execute the python code as they temporarily input and result data files that appear in the code.
+The other folders will be necessary to execute the python code as they temporarily store input and result data files that appear in the code.
 
-The folders titled "SWMM_Model" and "Subbasin_attributes" contain example data for the Upper Meadow Creek Watershed located in Charlottesville and Albemarle County Virginia. 
+The folders titled "SWMM_Model" and "Subbasin_Attributes" contain example SWMM model and input data respectively for the Upper Meadow Creek Watershed located in Charlottesville and Albemarle County Virginia. These files within these two folders will need to be updated to reflect different study areas.
  
 
 
