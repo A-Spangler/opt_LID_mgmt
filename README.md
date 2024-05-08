@@ -11,13 +11,3 @@ The folders titled "SWMM_Model" and "Subbasin_Attributes" contain example SWMM m
 Lines 20-50 in the .py files are scenario specific parameters including the number decision variables in the model and the cost constraints which are specific to different study areas. 
  
 
-
-
-  # Ava's notes
-Started by installing pyswmm and  swmmio packages
-
-Compiled borg on cluster, compiled python plugin shared library (libborg.so)
-
-Then I added the compiled files to opt_LID_mgmt directory
-
-working on how to execute code ... 'module 'borg' not found' error
